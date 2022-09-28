@@ -6,9 +6,11 @@ exposição para o Lajedo do Marinho, Boqueirão - PB.
 
 ## Autores
 
+### Desenvolvedores
 - [Miguel Ryan @athavus](https://www.github.com/athavus)
 - [Jesse Oliveira Chagas @Github de Jessé](https://www.github.com/octokatherine)
 - [Dayan @Github de Dayan (se tiver)](https://www.github.com/octokatherine)
+### Apoio e participantes de outras áreas do projeto
 - [Menina de Mineração 2 @Não devem ter Github](https://www.github.com/octokatherine)
 - [Menina de Mineração 1 @Não devem ter Github](https://www.github.com/octokatherine)
 - [Golbery @Não tem Github](https://www.github.com/octokatherine)
